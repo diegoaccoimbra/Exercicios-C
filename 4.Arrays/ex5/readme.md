@@ -1,0 +1,1 @@
+Crie um programa em C para encontrar a multiplicação dos elementos da diagonal principal de uma matriz. Essa matriz deve ser 5x5 e preenchida com valores aleatórios.

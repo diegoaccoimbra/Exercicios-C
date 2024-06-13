@@ -1,0 +1,1 @@
+Crie uma agenda em C para armazenar telefones de n pessoas (n entrado pelo usuário) com uma função void addTelefone(int *agenda, int telefone, int posicao); que adiciona um número de telefone na agenda.

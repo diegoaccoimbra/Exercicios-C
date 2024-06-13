@@ -1,0 +1,1 @@
+Dado um array de números aleatórios, empurre todos os zeros de um determinado array para o final do array. Por exemplo, se os arrays fornecidos forem {1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0}, eles devem ser alterados para {1, 9, 8, 4, 2, 7, 6, 0, 0, 0, 0} . A ordem de todos os outros elementos deve ser a mesma.

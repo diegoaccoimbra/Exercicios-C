@@ -1,0 +1,1 @@
+Escreva um programa em C para calcular a soma de todos os elementos em um array usando ponteiros.

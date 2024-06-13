@@ -1,0 +1,2 @@
+Crie um programa em C que preencha uma matriz 3x3 com valores aleatórios (0 a 9) e a mostre na tela. Em seguida, encontre a sua transposta.
+Obs.: matriz transposta é a matriz que se obtém da troca de linhas por colunas.
