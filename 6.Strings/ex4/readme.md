@@ -1,0 +1,1 @@
+Escreva um programa C para converter uma string com letras minúsculas em uma string com letras maiúsculas.

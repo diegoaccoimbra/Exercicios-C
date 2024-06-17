@@ -1,0 +1,1 @@
+Escreva um programa em C para encontrar a primeira ocorrência de uma palavra em uma determinada string.

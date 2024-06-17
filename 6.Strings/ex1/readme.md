@@ -1,0 +1,1 @@
+Escreva um programa C para contar o número total de palavras em uma string usando loop.
