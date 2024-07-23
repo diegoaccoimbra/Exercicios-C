@@ -1,0 +1,3 @@
+Escreva um programa em C que solicite ao usuário a digitação de um número inteiro positivo N. O programa deve então alocar dinamicamente um array de inteiros de tamanho N. Em seguida, o programa deverá preencher o array com N valores aleatórios, e exibir a soma de todos os elementos do array.
+
+Em seguida, o programa deve verificar se a soma dos elementos ultrapassa um determinado limite pré-definido (por exemplo, 20). Caso a soma seja maior que o limite, o programa deve realocar o array, aumentando o seu tamanho em 50% e preencher as vagas adicionais com valores aleatórios. Após a realocação e a digitação dos novos elementos, o programa deve exibir a nova soma total dos elementos.

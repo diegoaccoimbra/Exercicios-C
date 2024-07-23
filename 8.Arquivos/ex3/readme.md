@@ -1,0 +1,1 @@
+Escreva um programa em C para mesclar dois arquivos e gravá-lo em um novo arquivo.

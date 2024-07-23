@@ -1,0 +1,1 @@
+Crie uma função recursiva que calcule o fatorial de um número inteiro informado pelo usuário.
