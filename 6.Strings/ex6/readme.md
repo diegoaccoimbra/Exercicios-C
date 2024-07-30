@@ -1,0 +1,1 @@
+Utilizando ponteiros, escreva uma função em C para retornar o primeiro caractere não repetido em uma determinada string passada como argumento.

@@ -1,3 +1,0 @@
-Faça um programa em C para gerenciar um catálogo de carros. O programa deve armazenar as informações de placa e modelo, utilizando uma estrutura de dados chamada Carro. As informações de cada carro devem ser inseridas dinamicamente na memória e gerenciadas por um array de structs de tamanho n.
-- Crie uma struct Carro.
-- Implemente a função char* get_modelo (Carro*, char*) que busca um carro por meio de sua placa, e retorna o seu modelo.
