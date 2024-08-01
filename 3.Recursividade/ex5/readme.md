@@ -1,0 +1,1 @@
+Escreva uma função recursiva que encontre e retorne o elemento mínimo em um array, onde o array e seu tamanho são dados como parâmetros

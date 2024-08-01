@@ -53,7 +53,6 @@ int main() {
     }
 
     // Realizando a busca.
-
     char *modelo_buscado = get_modelo(carros, "DEF-5678");
     if (modelo_buscado == NULL) {
         printf("O carro com essa placa não foi encontrado\n");

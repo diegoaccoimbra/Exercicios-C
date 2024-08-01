@@ -1,0 +1,1 @@
+Escreva um programa em C para mostrar um número em ordem inversa.

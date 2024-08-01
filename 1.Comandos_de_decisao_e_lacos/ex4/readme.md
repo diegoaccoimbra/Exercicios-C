@@ -1,0 +1,1 @@
+Escreva um programa em C para converter dias específicos em anos, semanas e dias. Ignore o ano bissexto.
